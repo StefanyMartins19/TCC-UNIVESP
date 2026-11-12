@@ -1,0 +1,10 @@
+{
+  "description": "Explore public indicators on Brazilian debt, credit and socioeconomic trends through interactive dashboards, territorial analysis and transparent data sources.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
